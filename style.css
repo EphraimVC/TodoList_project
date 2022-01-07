@@ -1,0 +1,12 @@
+  /* Edit Task */
+  ul li input[type=text] {
+    display:none;
+  }
+  
+  ul li.editClass input[type=text] {
+    display:block;
+  }
+  
+  ul li.editClass label {
+    display:none;
+  }
